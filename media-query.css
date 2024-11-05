@@ -1,0 +1,19 @@
+@media screen and (min-width: 768px) {
+
+    #material-symbols-outlined{
+        display: none;
+    }
+
+    #burguer{
+        display: none;
+    }
+
+    li{
+        display: inline-block;
+    }
+
+    main{
+        max-width: 50vw; 
+    }
+
+};
